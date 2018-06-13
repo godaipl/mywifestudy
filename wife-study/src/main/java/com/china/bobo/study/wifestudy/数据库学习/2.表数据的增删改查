@@ -1,0 +1,7 @@
+# 1. 添加3条数据 名字和年龄分别为liangxx1 18, 1liangxx 18, 111liangxx111 20
+
+# 2. 查询名字前缀为liangxxx的数据
+
+# 3. 查询名字以liangxxx结尾的数据
+
+# 4. 查询名字包含liangxxx的数据
