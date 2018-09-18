@@ -2,7 +2,7 @@ package com.china.bobo.study.wifestudy.贰java基础学习.java集合学习.List
 
 /**
  * @ClassName MyListTest
- * @Description TODO
+ * @Description 考核集合的使用
  * @Author yandongjun
  * @Date 2018/8/8 下午2:16
  * @Version 1.0
