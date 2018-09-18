@@ -12,8 +12,8 @@
     <packaging>pom</packaging>
 
 
-    <name>my-study</name>
-    <description>my-study</description>
+    <name>my-wife-study</name>
+    <description>my-wife-study</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
