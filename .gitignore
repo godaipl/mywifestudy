@@ -9,5 +9,6 @@
 *.iml
 .settings
 .classpath
+.vscode
 target
 .vscode
